@@ -1,0 +1,25 @@
+{
+  "name": "highlightjs-phenomatrix",
+  "version": "0.0.1",
+  "description": "highlight.js syntax definition for Copan Waspⓡ PhenoMATRIXⓡ",
+  "main": "src/phenomatrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcogh/highlightjs-phenomatrix.git"
+  },
+  "keywords": [
+    "phenomatrix",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Marco GHIDINELLI <marcogh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcogh/highlightjs-phenomatrix/issues"
+  },
+  "homepage": "https://github.com/marcogh/highlightjs-phenomatrix"
+}
