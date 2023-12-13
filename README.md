@@ -1,4 +1,4 @@
-# PhenoMATRIX - a language grammar for highlight.js
+# PhenoMATRIX® - a language grammar for highlight.js
 
 ## Usage
 

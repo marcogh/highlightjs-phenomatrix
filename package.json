@@ -1,8 +1,8 @@
 {
   "name": "highlightjs-phenomatrix",
-  "version": "0.0.3",
-  "description": "highlight.js syntax definition for Copan Waspⓡ PhenoMATRIXⓡ",
-  "main": "src/phenomatrix.js",
+  "version": "0.0.4",
+  "description": "highlight.js syntax definition for Copan Wasp® PhenoMATRIX®",
+  "main": "src/languages/phenomatrix.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

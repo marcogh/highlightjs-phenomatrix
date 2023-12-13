@@ -1,11 +1,10 @@
 /*
-Language: Phenomatrix
-Description: Phenomatrix rules highlighter
-Website: https://www.python.org
+Language: PhenoMATRIX
+Description: PhenoMATRIX® rules highlighter
 Category: common
 */
 
-function python(hljs) {
+function phenomatrix(hljs) {
   const regex = hljs.regex;
   const IDENT_RE = /[\p{XID_Start}_]\p{XID_Continue}*/u;
   const RESERVED_WORDS = [
@@ -441,4 +440,4 @@ function python(hljs) {
   };
 }
 
-export { python as default };
+export { phenomatrix as default };
