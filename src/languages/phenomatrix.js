@@ -9,8 +9,6 @@ function python(hljs) {
   const regex = hljs.regex;
   const IDENT_RE = /[\p{XID_Start}_]\p{XID_Continue}*/u;
   const RESERVED_WORDS = [
-    'all_in',
-    'any_in',
     'and',
     'as',
     'assert',
@@ -49,6 +47,16 @@ function python(hljs) {
 
   const BUILT_INS = [
     '__import__',
+    'has_value',
+    'all_in',
+    'any_in',
+    'top',
+    'filter_keys',
+    'filter_not_keys',
+    'is_subset',
+    'sum_values',
+    'in_time_interval',
+    'in_weekday_interval',
     'abs',
     'all',
     'any',
