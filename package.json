@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-phenomatrix",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "highlight.js syntax definition for Copan Waspⓡ PhenoMATRIXⓡ",
   "main": "src/phenomatrix.js",
   "scripts": {
